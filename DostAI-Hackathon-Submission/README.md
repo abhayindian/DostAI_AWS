@@ -1,7 +1,7 @@
 # 🇮🇳 DostAI: The Offline AI Lifeline for Rural India
 > **Track:** [Student Track] AI for Communities, Access & Public Impact
 
-![DostAI Architecture](assets/architecture_diagram.jpg)
+![DostAI Architecture](assets/architecture_diagram.png)
 
 ## 🚀 Problem Statement
 **Internet is not a luxury; knowledge is.**
